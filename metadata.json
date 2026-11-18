@@ -1,0 +1,6 @@
+{
+  "name": "烈焰霸业 · 传奇BOSS传",
+  "description": "传奇风格快节奏BOSS直战手游：多地图BOSS刷新倒计时提醒、绚丽神兵战甲、酷炫技能特效、破甲爆衣系统与沙巴克城主争夺。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
